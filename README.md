@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **EthanLeo@yeah.net**
 - ⚡ Fun fact **Follow my Bilibili account Ethan_Gogo**
 
-<img align= "right" width= "250" src= "./pic/cat.git"/>
+<img align= "right" width= "250" src= "https://github.com/wanyuqin/wanyuqin/blob/master/pic/cat.gif"/>
 
 ### 技术栈 | Tech Stack
 * 💻   [![](https://img.shields.io/badge/-%20go-333333?logo=go)](https://go.dev/) [![](https://img.shields.io/badge/python-333333?logo=Python)]()
