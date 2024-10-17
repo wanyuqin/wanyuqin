@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 ### Hi 👋, I'm EthanLeo🫡
-[![bilibili](https://img.shields.io/badge/Bilibili-Ethan__Gogo-red?logo=Bilibili&style=flat)](https://space.bilibili.com/160793087)
 [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-bitter-brightgreen)]()
 [![Mail Badge](https://img.shields.io/badge/-ethanleo@yeah.net-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ethanleo@yeah.net)](mailto:ethanleo@yeah.net)
 
